@@ -9,8 +9,8 @@ We are a hands-on digital consultancy based in London that specialise in full st
 development. We can provide on-site experts to work with existing teams to supplement and augment skill sets in order
 to supercharge your project delivery.
 
-Originally founded in Dublin in 2006, we moved our operations to London in 2010 and have worked with some amazing London
-based clients across media, tech and finance.
+Originally founded in Dublin in 2006, we moved our operations to London in late 2010 and have worked with some amazing 
+London based clients across media, tech and finance.
 
 [Say hello](/contact/) and keep in touch:
 

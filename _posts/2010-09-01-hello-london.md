@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Hello London!
-date:       2010-03-01 09:10:20
+date:       2010-09-01 09:10:20
 summary:    Today we are excited to announce that we have relocated our operations to London and are open for business.
 categories: london clients
 ---
