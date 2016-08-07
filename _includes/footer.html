@@ -1,0 +1,14 @@
+<footer class="center">
+  <div class="measure">
+    <small>
+      Codex9 Ltd is a company registered in England and Wales with company number 07559037, our VAT number is
+        108 4051 46. View our <a href="/terms">terms and conditions</a> and <a href="/privacy">privacy policy</a>.
+    </small>
+  </div>
+</footer>
+{% if site.enable_anchorjs %}<!-- AnchorJS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
+<script>
+    anchors.options.visible = 'always';
+    anchors.add('article h2, article h3, article h4, article h5, article h6');
+</script>{% endif %}
