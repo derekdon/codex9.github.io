@@ -3,7 +3,7 @@ layout:     post
 title:      Hello London!
 date:       2010-09-01 09:10:20
 summary:    Today we are excited to announce that we have relocated our operations to London and are open for business.
-categories: london clients
+categories: london
 ---
 
 Codex9 has been building cutting edge digital solutions for our clients in Ireland since 2006. Today we are excited
