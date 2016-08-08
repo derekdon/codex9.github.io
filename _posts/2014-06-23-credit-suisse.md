@@ -2,7 +2,7 @@
 layout:     post
 title:      Credit Suisse 
 date:       2014-06-23 09:12:00
-summary:    We are looking forward to working with Credit Suisse on their new Risk Data Presentation project.
+summary:    We are looking forward to working with Credit Suisse on their core global Risk Data Presentation project.
 categories: clients
 ---
 
