@@ -6,7 +6,7 @@ summary:    We are looking forward to working with Credit Suisse on their global
 categories: clients
 ---
 
-We are excited to announce that we have been contracted by <a href="http://credit-suisse.com" target="_blank">Credit 
+We are excited to announce that Codex9 have been contracted by <a href="http://credit-suisse.com" target="_blank">Credit 
 Suisse</a> to work on their global Risk Data Presentation project.
 
 Credit Suisse Group is a Swiss multinational financial services holding company, headquartered in Zürich, that operates 
