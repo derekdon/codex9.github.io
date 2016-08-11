@@ -2,7 +2,7 @@
 layout:     post
 title:      Credit Suisse Testimonial
 date:       2016-01-27 09:00:00
-summary:    Thank you Credit Suisse for sending us a glowing testimonial.
+summary:    Another great testimonial, this time from Credit Suisse.
 categories: testimonials
 ---
 
