@@ -17,10 +17,10 @@ with some amazing London based clients across media, tech and finance.
 * [Email](mailto:info@codex9.com)
 * [Twitter](https://twitter.com/Codex9Ltd)
 * [Phone](tel:+447963262537)
-* Codex9 Ltd
-  19 Park View
-  London
-  N21 1QS
+* Codex9 Ltd  
+  19 Park View  
+  London  
+  N21 1QS  
 
 Codex9 Ltd is a company registered in England and Wales with company number 07559037, our VAT number is 108 4051 46.
 
